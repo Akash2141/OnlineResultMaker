@@ -23,6 +23,8 @@ zuul:
       service-id: TeacherData
     ExamFormatInfo:
       service-id: EXAMFORMATINFO
+    StudentExamMap:
+        service-id: StudentExamMap
   host:
     connect-timeout-millis: 1000
     
