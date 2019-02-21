@@ -121,7 +121,6 @@ INDEX VERSION 1.131+/home/akash/Documents/OnlineAdmissionProcess/.metadata/.plug
 2064967890.index
 1300063643.index
 1747596626.index
-717028572.index
 66822277.index
 3556719774.index
 251211760.index
