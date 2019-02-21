@@ -1,0 +1,39 @@
+server:
+  port: 8764
+  
+  
+spring:
+  application:
+    name: StudentResult
+  datasource:
+    username: Akash
+    password: Akash2141
+    url: jdbc:postgresql://postgres.cyp1vjctaigy.ap-south-1.rds.amazonaws.com:5432/Akash
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+    
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+      
+    
+
+
+# eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
+##eureka.client.fetch-registry=true
+#
+##datasource Details
+#spring.datasource.url=jdbc:postgresql://postgres.cyp1vjctaigy.ap-south-1.rds.amazonaws.com:5432/Akash
+#spring.datasource.username=Akash
+#spring.datasource.password=Akash2141
+#spring.jpa.hibernate.ddl-auto=update
+#spring.jpa.show-sql=true
+#spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+
+      

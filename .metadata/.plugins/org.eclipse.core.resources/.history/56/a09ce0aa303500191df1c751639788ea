@@ -1,0 +1,20 @@
+package com.OnlineResult.Service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.OnlineResult.Model.StudentExamMapModel;
+import com.OnlineResult.Repository.StudentExamMapRepo;
+
+@Service
+public class StudentExamMapService {
+	
+	@Autowired
+	StudentExamMapRepo studentExamMapRepo;
+	
+	public void addStudentExamMap(StudentExamMapModel studentExamMapModel)
+	{
+		
+	}
+
+}

@@ -1,0 +1,21 @@
+package com.OnlineResult.Entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Entity
+@Data
+@NoArgsConstructor
+public class Teacher implements Serializable{
+	
+	private static final long serialVersionUID = -198602182999119144L;
+	
+	private Long id;
+	private String username;
+	private String password;
+
+}

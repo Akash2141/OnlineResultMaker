@@ -1,0 +1,17 @@
+package com.OnlineResult.Entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@Entity
+@NoArgsConstructor
+public class ExamFormat implements Serializable{
+	
+	private Long id;
+
+}

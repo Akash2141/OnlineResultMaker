@@ -1,0 +1,20 @@
+package com.OnlineResult.Service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.OnlineResult.Model.ExamFormatModel;
+import com.OnlineResult.Repository.ExamFormatRepository;
+
+@Service
+public class ExamFormatService {
+	
+	@Autowired
+	ExamFormatRepository examFormatRepository;
+	
+	public void addExamFormat(ExamFormatModel examFormatModel)
+	{
+		examFormatRepository.save()
+	}
+
+}

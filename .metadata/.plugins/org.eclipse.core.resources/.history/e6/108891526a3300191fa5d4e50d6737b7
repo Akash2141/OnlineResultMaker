@@ -1,0 +1,25 @@
+package com.OnlineResult.Service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.OnlineResult.Entity.ExamFormat;
+import com.OnlineResult.Model.ExamFormatModel;
+import com.OnlineResult.Repository.ExamFormatRepository;
+import com.google.gson.Gson;
+
+@Service
+public class ExamFormatService {
+	
+	@Autowired
+	ExamFormatRepository examFormatRepository;
+	
+	public void addExamFormat(ExamFormatModel examFormatModel)
+	{
+		Gson gson = new Gson();
+		String json = gson.toJson(examFormatModel);
+		ExamFormat examFormat = gson.fromJson(json, ExamFormat.class);
+		examFormatRepository.save(examFormat);
+	}
+
+}

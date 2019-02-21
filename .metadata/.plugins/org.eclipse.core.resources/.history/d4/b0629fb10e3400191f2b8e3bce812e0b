@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: OnlineResultApiGateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+      
+server:
+  port: 8762
+ 
+zuul:
+  routes:
+    Student:
+      service-id: StudentInfo
+    StudentResult:
+      service-id: StudentResult
+    StudentExamMarks: 
+      service-id: EXAMMARKS
+    SubjectInformation: 
+      service-id: SubjectInfo
+    TeacherData: 
+      service-id: TeacherData
+  host:
+    connect-timeout-millis: 1000
+    
+      
+ 
+      

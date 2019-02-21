@@ -1,0 +1,8 @@
+package com.OnlineResult.Configuration;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class SwaggerConfiguration {
+
+}

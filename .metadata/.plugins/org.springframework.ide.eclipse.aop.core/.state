@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="TeacherData"/>
+<aop-project name="StudentResults"/>
+<aop-project name="StudentExamMapping"/>
+<aop-project name="StudentExamMarks"/>
+<aop-project name="ExamFormat"/>
+<aop-project name="EurekaServer"/>
+<aop-project name="OnlineResultApiGateWay"/>
+<aop-project name="StudentData"/>
+<aop-project name="SubjectData"/>
+</aop-reference-model>

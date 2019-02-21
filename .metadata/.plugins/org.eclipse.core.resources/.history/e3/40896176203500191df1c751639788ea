@@ -1,0 +1,5 @@
+package com.OnlineResult.Repository;
+
+public class StudentExamMapRepo {
+
+}

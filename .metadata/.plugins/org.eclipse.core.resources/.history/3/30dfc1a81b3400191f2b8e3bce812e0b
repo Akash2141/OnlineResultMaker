@@ -1,0 +1,23 @@
+package com.OnlineResult.Entity;
+
+import javax.persistence.Entity;
+
+import org.hibernate.annotations.TypeDef;
+
+import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
+
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Entity
+@Data
+@NoArgsConstructor
+@TypeDef(name = "jsonb", typeClass = JsonBinaryType.class)
+public class StudentExamMap {
+
+	private Long id;
+	private String studentUnicode;
+	private int regularExamAttemptedYear;
+	private String month;
+	
+}

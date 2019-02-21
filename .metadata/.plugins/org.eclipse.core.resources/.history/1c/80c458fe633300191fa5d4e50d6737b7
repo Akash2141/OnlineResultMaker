@@ -1,0 +1,25 @@
+package com.OnlineResult.Service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.OnlineResult.Entity.Teacher;
+import com.OnlineResult.Model.TeacherModel;
+import com.OnlineResult.Repository.TeacherInfoRepo;
+import com.google.gson.Gson;
+
+@Service
+public class TeacherInfoService {
+	
+	@Autowired
+	TeacherInfoRepo teacherInfoRepo;
+	
+	public void addTeacher(TeacherModel teacherModel)
+	{
+		Gson gson = new Gson();
+		String json = gson.toJson(teacherModel);
+		Teacher examMarks = gson.fromJson(json, Teacher.class);
+		teacherInfoRepo.save(examMarks);
+	}
+
+}
