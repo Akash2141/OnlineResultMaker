@@ -1,5 +1,6 @@
 package com.OnlineResult.Controller;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,15 +31,40 @@ public class StudentController {
 	@GetMapping("/getAllStudent")
 	public List<StudentModel> getAllStudent()
 	{
-		System.out.println();
-		return studentService.getAllStudent();
+		List<StudentModel> listStudentModel= studentService.getAllStudent();
+		return listStudentModel;
 	}
 	
-	@GetMapping("/getAllStudent/{id}")
+	@GetMapping("/getStudent/{id}")
 	public StudentModel getStudent(@PathVariable Long id)
 	{
+		System.out.println(id);
 		StudentModel studentModel=studentService.getAllStudentById(id);
+		System.out.println(studentModel.getAddress());
 		return studentModel;
+	}
+	
+	@GetMapping("/getStudent/{semester}/{calendarYear}")
+	public List<StudentModel> getAllStudentByYear(@PathVariable String semester,@PathVariable int calendarYear)
+	{
+		List<StudentModel> listStudentModel= studentService.getAllStudent();
+		List<StudentModel> newListStudentModel=new ArrayList<StudentModel>();
+		String academicYear="";
+		if(semester.equals("semester1") | semester.equals("semester2"))
+			academicYear="fy";
+		else if(semester.equals("semester3") | semester.equals("semester4"))
+			academicYear="sy";
+		else if(semester.equals("semester5") | semester.equals("semester6"))
+			academicYear="ty";
+		for(StudentModel studentModel:listStudentModel)
+		{
+			if(null!=studentModel.getBatch() && studentModel.getBatch().getAcademicYear().equals(academicYear) && 
+					studentModel.getBatch().getCalendarYear()==calendarYear)
+			{
+				newListStudentModel.add(studentModel);
+			}
+		}
+		return newListStudentModel;
 	}
 	
 

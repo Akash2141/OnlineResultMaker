@@ -35,12 +35,15 @@ public class Student implements Serializable {
 	private String middleName;
 	private String lastName;
 	private Date dateOfBirth;
-	private String batch_Id;
 	private String email;
 	private String address;
 	
 	@Type(type = "jsonb")
     @Column(columnDefinition = "jsonb")
 	private Parent parent;
+	
+	@Type(type = "jsonb")
+    @Column(columnDefinition = "jsonb")
+	private Batch batch;
 
 }

@@ -9,8 +9,8 @@ eureka:
 spring:
   datasource:
     username: postgres
-    password: postgres
-    url: jdbc:postgresql://postgres.cyp1vjctaigy.ap-south-1.rds.amazonaws.com:5432/postgres
+    password: Akash2141 #postgres
+    url: jdbc:postgresql://localhost:5432/postgres l#jdbc:postgresql://postgres.cyp1vjctaigy.ap-south-1.rds.amazonaws.com:5432/postgres
   jpa:
     show-sql: true
     hibernate:

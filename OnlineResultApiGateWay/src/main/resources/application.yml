@@ -25,6 +25,8 @@ zuul:
       service-id: EXAMFORMATINFO
     StudentExamMap:
         service-id: StudentExamMap
+    STUDENTBATCHMAP:
+        service-id: STUDENTBATCHMAP
   host:
     connect-timeout-millis: 1000
     

@@ -14,9 +14,9 @@ public class StudentModel {
 	private String middleName;
 	private String lastName;
 	private Date dateOfBirth;
-	private String batch_Id;
 	private String email;
 	private String address;
 	private Parent parent;
+	private BatchModel batch;
 
 }

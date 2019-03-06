@@ -6307,3 +6307,338 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.to
 2019-02-21 00:43:27,260 [Worker-80: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-02-21 00:43:27,268 [Worker-80: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-02-21 00:43:27,268 [Worker-80: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/src/test/resources
+2019-03-02 12:09:52,264 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-02 12:21:02,682 [Worker-17: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:21:02,707 [Worker-17: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:21:02,725 [Worker-17: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:21:02,732 [Worker-17: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:21:02,733 [Worker-17: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-02 12:22:59,246 [Worker-7: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:22:59,250 [Worker-7: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:22:59,251 [Worker-7: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-02 12:22:59,254 [Worker-7: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:22:59,254 [Worker-7: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-02 12:23:57,332 [Worker-21: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:23:57,332 [Worker-21: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:23:57,420 [Worker-21: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-02 12:23:57,422 [Worker-21: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:23:57,422 [Worker-21: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/EurekaServer/src/test/resources
+2019-03-02 12:32:06,134 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:32:06,151 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:32:06,153 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:32:06,164 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:32:06,164 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-02 12:36:35,635 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:36:35,638 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:36:35,639 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:36:35,643 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:36:35,644 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-02 12:39:18,206 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:39:18,207 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:39:18,208 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:39:18,210 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:39:18,210 [Worker-23: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-02 12:42:15,628 [Worker-20: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:42:15,629 [Worker-20: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:42:15,631 [Worker-20: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:42:15,635 [Worker-20: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:42:15,637 [Worker-20: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-02 12:46:13,338 [Worker-27: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:46:13,339 [Worker-27: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-02 12:46:13,355 [Worker-27: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-02 12:46:13,363 [Worker-27: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:46:13,363 [Worker-27: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/OnlineResultApiGateWay/src/test/resources
+2019-03-02 12:46:30,079 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:46:30,080 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-02 12:46:30,081 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-02 12:46:30,083 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:46:30,088 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentExamMarks/src/test/resources
+2019-03-02 12:47:40,123 [Worker-23: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:47:40,123 [Worker-23: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:47:40,124 [Worker-23: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-02 12:47:40,126 [Worker-23: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:47:40,126 [Worker-23: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentExamMarks/src/test/resources
+2019-03-02 12:54:50,574 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:54:50,612 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-02 12:54:50,613 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-02 12:54:50,616 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:54:50,617 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentExamMarks/src/test/resources
+2019-03-02 12:55:38,027 [Worker-18: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:55:38,027 [Worker-18: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-02 12:55:38,046 [Worker-18: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-02 12:55:38,047 [Worker-18: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:55:38,047 [Worker-18: Launching EurekaServer - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/EurekaServer/src/test/resources
+2019-03-02 12:55:46,293 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:55:46,293 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-02 12:55:46,296 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-02 12:55:46,298 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-02 12:55:46,298 [Worker-25: Launching StudentExamMarks - StudentExamMarksApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentExamMarks/src/test/resources
+2019-03-03 09:04:29,739 [Worker-43: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OnlineResult:DropStudentCollection:0.0.1-SNAPSHOT @ /home/akash/Documents/OnlineAdmissionProcess/DropStudentCollection/pom.xml.
+2019-03-03 09:04:34,631 [Worker-43: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DropStudentCollection/src/main/java
+2019-03-03 09:04:34,634 [Worker-43: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DropStudentCollection/src/main/resources
+2019-03-03 09:04:34,672 [Worker-43: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DropStudentCollection/src/main/resources
+2019-03-03 09:04:34,702 [Worker-43: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DropStudentCollection/src/test/java
+2019-03-03 09:04:36,116 [Worker-43: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2019-03-03 09:04:36,145 [Worker-43: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-03 09:04:36,483 [Worker-43: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OnlineResult:DropStudentCollection:0.0.1-SNAPSHOT @ /home/akash/Documents/OnlineAdmissionProcess/DropStudentCollection/pom.xml.
+2019-03-03 09:04:37,743 [Worker-43: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DropStudentCollection/src/main/java
+2019-03-03 09:04:37,744 [Worker-43: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DropStudentCollection/src/main/resources
+2019-03-03 09:04:37,752 [Worker-43: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DropStudentCollection/src/main/resources
+2019-03-03 09:04:37,763 [Worker-43: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DropStudentCollection/src/test/java
+2019-03-03 09:04:38,272 [Worker-43: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-03-03 09:19:52,503 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 09:19:52,503 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 09:19:52,510 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 09:19:52,512 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 09:19:52,512 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/DropStudentCollection/src/test/resources
+2019-03-03 09:20:03,917 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 09:20:03,918 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 09:20:03,925 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 09:20:03,929 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 09:20:03,929 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/DropStudentCollection/src/test/resources
+2019-03-03 09:26:52,492 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-03 09:26:54,104 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OnlineResult:DropStudentCollection:0.0.1-SNAPSHOT @ /home/akash/Documents/OnlineAdmissionProcess/DropStudentCollection/pom.xml.
+2019-03-03 09:26:56,052 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DropStudentCollection/src/main/java
+2019-03-03 09:26:56,052 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DropStudentCollection/src/main/resources
+2019-03-03 09:26:56,052 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DropStudentCollection/src/main/resources
+2019-03-03 09:26:56,052 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DropStudentCollection/src/test/java
+2019-03-03 09:26:56,257 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-03-03 10:28:10,853 [Worker-55: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OnlineResult:StudentBatchMapping:0.0.1-SNAPSHOT @ /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/pom.xml.
+2019-03-03 10:28:11,536 [Worker-55: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentBatchMapping/src/main/java
+2019-03-03 10:28:11,536 [Worker-55: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentBatchMapping/src/main/resources
+2019-03-03 10:28:11,578 [Worker-55: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentBatchMapping/src/main/resources
+2019-03-03 10:28:11,616 [Worker-55: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentBatchMapping/src/test/java
+2019-03-03 10:28:11,844 [Worker-55: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-03-03 10:28:11,846 [Worker-55: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-03 10:28:12,050 [Worker-55: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OnlineResult:StudentBatchMapping:0.0.1-SNAPSHOT @ /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/pom.xml.
+2019-03-03 10:28:12,389 [Worker-55: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentBatchMapping/src/main/java
+2019-03-03 10:28:12,389 [Worker-55: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentBatchMapping/src/main/resources
+2019-03-03 10:28:12,390 [Worker-55: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentBatchMapping/src/main/resources
+2019-03-03 10:28:12,393 [Worker-55: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentBatchMapping/src/test/java
+2019-03-03 10:28:12,482 [Worker-55: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-03 10:43:28,613 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 10:43:28,613 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 10:43:28,614 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 10:43:28,621 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 10:43:28,621 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 10:43:33,955 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 10:43:33,957 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 10:43:33,961 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 10:43:33,967 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 10:43:33,968 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 10:52:21,972 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-03 10:52:22,678 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OnlineResult:StudentBatchMapping:0.0.1-SNAPSHOT @ /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/pom.xml.
+2019-03-03 10:52:22,959 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentBatchMapping/src/main/java
+2019-03-03 10:52:22,959 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentBatchMapping/src/main/resources
+2019-03-03 10:52:22,959 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentBatchMapping/src/main/resources
+2019-03-03 10:52:22,960 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentBatchMapping/src/test/java
+2019-03-03 10:52:23,103 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-03 11:42:31,837 [Worker-86: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 11:42:31,838 [Worker-86: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 11:42:31,838 [Worker-86: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 11:42:31,840 [Worker-86: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 11:42:31,841 [Worker-86: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 11:56:55,865 [Worker-95: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 11:56:55,865 [Worker-95: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 11:56:55,866 [Worker-95: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 11:56:55,868 [Worker-95: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 11:56:55,868 [Worker-95: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 11:59:08,036 [Worker-90: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 11:59:08,036 [Worker-90: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 11:59:08,043 [Worker-90: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 11:59:08,045 [Worker-90: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 11:59:08,045 [Worker-90: Launching OnlineResultApiGateWay - OnlineResultApiGateWayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/OnlineResultApiGateWay/src/test/resources
+2019-03-03 12:04:13,612 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:04:13,612 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:04:13,624 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:04:13,626 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:04:13,626 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:11:41,931 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:11:41,931 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:11:41,932 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:11:41,933 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:11:41,933 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:13:49,093 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:13:49,095 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:13:49,096 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:13:49,101 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:13:49,101 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:14:45,575 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:14:45,576 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:14:45,576 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:14:45,582 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:14:45,582 [Worker-98: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:18:58,879 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:18:58,880 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:18:58,880 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:18:58,882 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:18:58,882 [Worker-88: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:20:10,643 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:20:10,644 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:20:10,644 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:20:10,646 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:20:10,646 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:24:49,692 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:24:49,693 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:24:49,693 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:24:49,695 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:24:49,695 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:33:28,405 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:33:28,406 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:33:28,406 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:33:28,408 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:33:28,408 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:36:54,522 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:36:54,556 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:36:54,587 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:36:54,588 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:36:54,588 [Worker-94: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:47:51,818 [Worker-101: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:47:51,819 [Worker-101: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:47:51,819 [Worker-101: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:47:51,821 [Worker-101: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:47:51,821 [Worker-101: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:52:49,052 [Worker-102: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:52:49,054 [Worker-102: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:52:49,055 [Worker-102: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:52:49,058 [Worker-102: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:52:49,058 [Worker-102: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:55:31,931 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:55:31,931 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-03 12:55:31,932 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-03 12:55:31,933 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:55:31,934 [Worker-92: Launching StudentBatchMapping - StudentBatchMappingApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-03 12:59:41,051 [Worker-102: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:59:41,051 [Worker-102: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 12:59:41,072 [Worker-102: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 12:59:41,074 [Worker-102: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 12:59:41,074 [Worker-102: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-03 13:04:35,292 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 13:04:35,293 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 13:04:35,293 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 13:04:35,294 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 13:04:35,294 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-03 15:56:54,553 [Worker-95: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 15:56:54,553 [Worker-95: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 15:56:54,554 [Worker-95: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 15:56:54,556 [Worker-95: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 15:56:54,556 [Worker-95: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-03 15:57:19,648 [Worker-105: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 15:57:19,648 [Worker-105: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 15:57:19,649 [Worker-105: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 15:57:19,650 [Worker-105: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 15:57:19,650 [Worker-105: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-03 16:00:17,880 [Worker-92: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 16:00:17,880 [Worker-92: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 16:00:17,881 [Worker-92: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 16:00:17,883 [Worker-92: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 16:00:17,883 [Worker-92: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-03 16:09:53,224 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 16:09:53,225 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 16:09:53,225 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 16:09:53,227 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 16:09:53,227 [Worker-97: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-03 16:29:42,946 [Worker-106: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 16:29:42,948 [Worker-106: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 16:29:42,950 [Worker-106: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-03 16:29:42,957 [Worker-106: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-03 16:29:42,957 [Worker-106: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-06 10:51:49,830 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-06 10:54:06,449 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:06,472 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:06,528 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:06,531 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:06,532 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/DropStudentCollection/src/test/resources
+2019-03-06 10:54:08,217 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:08,217 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-06 10:54:08,225 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:08,228 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:08,228 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/EurekaServer/src/test/resources
+2019-03-06 10:54:11,074 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:11,074 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:11,083 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:11,085 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:11,085 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/ExamFormat/src/test/resources
+2019-03-06 10:54:11,801 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:11,802 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:11,839 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:11,841 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:11,841 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/OnlineResultApiGateWay/src/test/resources
+2019-03-06 10:54:12,281 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:12,281 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:12,312 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:12,314 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:12,314 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentBatchMapping/src/test/resources
+2019-03-06 10:54:16,376 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:16,376 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-06 10:54:16,390 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-06 10:54:16,396 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:16,396 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
+2019-03-06 10:54:17,738 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:17,738 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:17,770 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:17,772 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:17,772 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentExamMapping/src/test/resources
+2019-03-06 10:54:19,649 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:19,650 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:19,677 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:19,681 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:19,681 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentExamMarks/src/test/resources
+2019-03-06 10:54:21,421 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:21,421 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:21,443 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:21,445 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:21,445 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentResults/src/test/resources
+2019-03-06 10:54:23,874 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:23,875 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:23,920 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:23,923 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:23,923 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/src/test/resources
+2019-03-06 10:54:28,292 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:28,293 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 10:54:28,356 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 10:54:28,357 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 10:54:28,358 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/TeacherData/src/test/resources
+2019-03-06 11:16:20,158 [Worker-27: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:16:20,162 [Worker-27: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-06 11:16:20,163 [Worker-27: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 11:16:20,165 [Worker-27: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:16:20,165 [Worker-27: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/src/test/resources
+2019-03-06 11:17:17,480 [Worker-27: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:17:17,481 [Worker-27: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 11:17:17,484 [Worker-27: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 11:17:17,490 [Worker-27: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:17:17,490 [Worker-27: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/src/test/resources
+2019-03-06 11:19:15,211 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-06 11:19:16,045 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OnlineResult:SubjectDataInfo:0.0.1-SNAPSHOT @ /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/pom.xml.
+2019-03-06 11:19:17,154 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SubjectDataInfo/src/main/java
+2019-03-06 11:19:17,155 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SubjectDataInfo/src/main/resources
+2019-03-06 11:19:17,155 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SubjectDataInfo/src/main/resources
+2019-03-06 11:19:17,156 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SubjectDataInfo/src/test/java
+2019-03-06 11:19:17,548 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-03-06 11:19:27,591 [Worker-26: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:19:27,591 [Worker-26: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 11:19:27,607 [Worker-26: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 11:19:27,610 [Worker-26: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:19:27,610 [Worker-26: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/src/test/resources
+2019-03-06 11:27:35,448 [Worker-28: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.OnlineResult:SubjectDataInfo:0.0.1-SNAPSHOT @ /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/pom.xml.
+2019-03-06 11:27:35,990 [Worker-28: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:27:36,000 [Worker-28: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 11:27:36,004 [Worker-28: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 11:27:36,007 [Worker-28: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:27:36,007 [Worker-28: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/src/test/resources
+2019-03-06 11:40:47,812 [Worker-34: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:40:47,813 [Worker-34: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-06 11:40:47,828 [Worker-34: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 11:40:47,830 [Worker-34: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:40:47,830 [Worker-34: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/src/test/resources
+2019-03-06 11:48:28,700 [Worker-35: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:48:28,700 [Worker-35: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-06 11:48:28,701 [Worker-35: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 11:48:28,702 [Worker-35: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:48:28,702 [Worker-35: Launching SubjectDataInfo - SubjectDataInfoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/SubjectDataInfo/src/test/resources
+2019-03-06 11:48:35,663 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:48:35,693 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-06 11:48:35,695 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-06 11:48:35,698 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-06 11:48:35,698 [Worker-21: Launching StudentData - StudentDataApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akash/Documents/OnlineAdmissionProcess/StudentData/src/test/resources
