@@ -1,7 +1,0 @@
-package com.OnlineResult.Repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface StudentExamMapRepo extends CrudRepository<T, ID>{
-
-}

@@ -3,10 +3,12 @@
 <aop-project name="TeacherData"/>
 <aop-project name="StudentResults"/>
 <aop-project name="StudentExamMapping"/>
+<aop-project name="StudentBatchMapping"/>
 <aop-project name="SubjectDataInfo"/>
 <aop-project name="StudentExamMarks"/>
 <aop-project name="ExamFormat"/>
 <aop-project name="EurekaServer"/>
 <aop-project name="OnlineResultApiGateWay"/>
+<aop-project name="DropStudentCollection"/>
 <aop-project name="StudentData"/>
 </aop-reference-model>

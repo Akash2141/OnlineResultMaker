@@ -1,5 +1,0 @@
-package com.OnlineResult.Repository;
-
-public interface SubjectDataRepo {
-
-}
