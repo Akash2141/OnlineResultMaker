@@ -33,4 +33,13 @@ public class ExamFormatService {
 		return listExamFormatModel;
 	}
 
+	public List<ExamFormatModel> getExamFormatByYear(int year) {
+		Iterable<ExamFormat> itExamFormat = examFormatRepository.findByYear(year);
+		Gson gson = new Gson();
+		String json = gson.toJson(itExamFormat);
+		List<ExamFormatModel> listExamFormatModel = gson.fromJson(json, new TypeToken<List<ExamFormatModel>>() {
+		}.getType());
+		return listExamFormatModel;
+	}
+
 }
