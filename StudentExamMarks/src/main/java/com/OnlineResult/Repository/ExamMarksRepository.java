@@ -12,6 +12,9 @@ import com.OnlineResult.Entity.ExamMarks;
 @CrossOrigin(origins = "http://localhost:4200")
 public interface ExamMarksRepository extends CrudRepository<ExamMarks, Long>{
 	
-	public List<ExamMarks> findByYearAndSemesterAndMonthAndTypeAndAtkt(int year, String semester, String month, String type, boolean atkt);
+	public List<ExamMarks> findByYearAndSemesterAndMonthAndTypeAndPattern(int year, String semester, String month, String type, String pattern);
+
+	public Iterable<ExamMarks> findByYearAndSemesterAndMonthAndPatternAndStudentUnicode(int year, String semester,
+			String month, String pattern, String unicode);
 
 }

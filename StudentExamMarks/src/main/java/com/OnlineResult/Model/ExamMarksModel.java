@@ -10,7 +10,7 @@ public class ExamMarksModel {
 	private int year;
 	private String month;
 	private String type;
-	private boolean atkt;
+	private String pattern;
+	private String studentUnicode;
 	private MarksModel marks;
-	
 }

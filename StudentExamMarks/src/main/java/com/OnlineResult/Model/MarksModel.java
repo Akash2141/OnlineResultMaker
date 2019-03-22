@@ -5,7 +5,6 @@ import lombok.Data;
 @Data
 public class MarksModel {
 
-	private String studentUnicode;
 	private float subject1;
 	private float subject2;
 	private float subject3;

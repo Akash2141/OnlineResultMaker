@@ -31,6 +31,8 @@ public class Student implements Serializable {
 	@SequenceGenerator(name="id",initialValue=1,sequenceName="Id")
 	private Long id;
 	private String uniqueCode;
+	private Long pnrNumber;
+	private int rollNumber;
 	private String firstName;
 	private String middleName;
 	private String lastName;

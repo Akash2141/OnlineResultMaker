@@ -11,7 +11,6 @@ public class Marks implements Serializable {
 
 	private static final long serialVersionUID = -6264997347232633622L;
 
-	private String studentUnicode;
 	private float subject1;
 	private float subject2;
 	private float subject3;
