@@ -9,7 +9,6 @@ public interface ExamMarksServiceInterface {
 	
 	public void addExamMarks(ExamMarksModel examMarksModel);
 	public List<ExamMarksModel> getExamMarks();
-	public void addGraceMarks(ExamGraceMarksModel examGraceMarksModel);
 	public List<ExamMarksModel> CheckAndAddGrace(int year, String semester, String month, String pattern, String Unicode);
 	public List<ExamMarksModel> getExamMarksByYearSemester(int year, String semester, String month, String type,
 			String pattern);

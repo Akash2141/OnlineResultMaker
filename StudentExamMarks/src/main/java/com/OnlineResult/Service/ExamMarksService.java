@@ -32,7 +32,6 @@ public class ExamMarksService implements ExamMarksServiceInterface {
 			subject5PracticalMarks, internal1Total, internal2Total, practicalTotal, theoryTotal, passingPercentage,
 			totalFormat, totalCalculatedValue = 0.0f, subject1Grace = null, subject2Grace = null, subject3Grace = null,
 			subject4Grace = null, subject5Grace = null, totalGivenGraceMarks = 0f;
-//	private int flag1 = 0, flag2 = 0, flag3 = 0, flag4 = 0, flag5 = 0;
 	private String url;
 	private ExamFormatModel examFormatModel;
 	@Autowired
@@ -75,14 +74,6 @@ public class ExamMarksService implements ExamMarksServiceInterface {
 		}.getType());
 //		CheckAndAddGrace(year, semester, month, pattern, "Dinesh123");
 		return listExamMarksModel;
-	}
-
-	@Override
-	public void addGraceMarks(ExamGraceMarksModel examGraceMarksModel) {
-		Gson gson = new Gson();
-		String json = gson.toJson(examGraceMarksModel);
-		ExamGraceMarks examGraceMarks = gson.fromJson(json, ExamGraceMarks.class);
-		graceMarksRepo.save(examGraceMarks);
 	}
 
 	@Override
@@ -241,27 +232,22 @@ public class ExamMarksService implements ExamMarksServiceInterface {
 	public void CheckFormatMarks() {
 		if (subject1TotalMarks < (totalFormat * (passingPercentage / 100))) {
 			lessMarksMap.put("subject1TotalMarks", totalFormat);
-//			flag1 = 1;
 		}
 
 		if (subject2TotalMarks < (totalFormat * (passingPercentage / 100))) {
 			lessMarksMap.put("subject2TotalMarks", totalFormat);
-//			flag2 = 1;
 		}
 
 		if (subject3TotalMarks < (totalFormat * (passingPercentage / 100))) {
 			lessMarksMap.put("subject3TotalMarks", totalFormat);
-//			flag3 = 1;
 		}
 
 		if (subject4TotalMarks < (totalFormat * (passingPercentage / 100))) {
 			lessMarksMap.put("subject4TotalMarks", totalFormat);
-//			flag4 = 1;
 		}
 
 		if (subject5TotalMarks < (totalFormat * (passingPercentage / 100))) {
 			lessMarksMap.put("subject5TotalMarks", totalFormat);
-//			flag5 = 1;
 		}
 
 	}
