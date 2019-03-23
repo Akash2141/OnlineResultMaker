@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -39,6 +40,12 @@ public class ExamMarksController {
 		return examMarksService.getExamMarksByYearSemester(year, semester, month, type, pattern);
 	}
 
+	@PutMapping("/updateExamMarks")
+	public void updateExamMarks(@RequestBody ExamMarksModel examMarksModel)
+	{
+		examMarksService.updateExamMarks(examMarksModel);
+	}
+	
 	@GetMapping("/getExamMarksByYearUnicodeAddGrace/{year}/{semester}/{month}/{pattern}/{unicode}")
 	public List<ExamMarksModel> getExamMarksByYearUnicode(@PathVariable int year, @PathVariable String semester,
 			@PathVariable String month, @PathVariable String pattern, @PathVariable String unicode) {

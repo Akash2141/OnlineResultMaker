@@ -26,7 +26,6 @@ public class ExamFormat implements Serializable {
 	@GeneratedValue
 	@SequenceGenerator(name = "id", initialValue = 1, sequenceName = "Id")
 	private Long id;
-	private String semester;
 	@Column(unique = true)
 	private int year;
 	private int internal1;

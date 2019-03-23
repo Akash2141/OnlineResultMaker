@@ -17,4 +17,7 @@ public interface ExamMarksRepository extends CrudRepository<ExamMarks, Long>{
 	public Iterable<ExamMarks> findByYearAndSemesterAndMonthAndPatternAndStudentUnicode(int year, String semester,
 			String month, String pattern, String unicode);
 
+	public ExamMarks findByYearAndSemesterAndMonthAndTypeAndPatternAndStudentUnicode(int year, String semester,
+			String month, String type, String pattern, String studentUnicode);
+
 }

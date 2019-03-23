@@ -6,7 +6,6 @@ import lombok.Data;
 public class ExamFormatModel {
 	
 	private Long id;
-	private String semester;
 	private int year;
 	private int internal1;
 	private int internal2;

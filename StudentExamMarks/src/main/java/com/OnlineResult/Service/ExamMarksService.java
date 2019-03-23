@@ -10,6 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
+import com.OnlineResult.Entity.ExamFormat;
 import com.OnlineResult.Entity.ExamGraceMarks;
 import com.OnlineResult.Entity.ExamMarks;
 import com.OnlineResult.Entity.Marks;
@@ -111,7 +112,7 @@ public class ExamMarksService implements ExamMarksServiceInterface {
 
 		// get the marks from the Format
 		url = "http://localhost:8762/ExamFormatInfo/ExamFormat/getExamFormat";
-		examFormatModel = restTemplate.getForObject(url+year, ExamFormatModel.class);
+		examFormatModel = restTemplate.getForObject(url + year, ExamFormatModel.class);
 //		ResponseEntity<ExamFormatModel> response=restTemplate.exchange(url, HttpMethod.GET, requestEntity, responseType)
 		GetTotalFormatMarks(examFormatModel);
 		CheckFormatMarks();
@@ -285,6 +286,22 @@ public class ExamMarksService implements ExamMarksServiceInterface {
 				new TypeToken<List<ExamGraceMarksModel>>() {
 				}.getType());
 		return listExamGraceMarksModel;
+	}
+
+	public void updateExamMarks(ExamMarksModel examMarksModel) {
+		ExamMarks examMarks, examMarks1;
+		Gson gson = new Gson();
+		String json = gson.toJson(examMarksModel);
+		examMarks = gson.fromJson(json, ExamMarks.class);
+		examMarks1 = examMarksRepository.findByYearAndSemesterAndMonthAndTypeAndPatternAndStudentUnicode(
+				examMarks.getYear(), examMarks.getSemester(), examMarks.getMonth(), examMarks.getType(),
+				examMarks.getPattern(), examMarks.getStudentUnicode());
+		if (examMarks1 != null) {
+			examMarks.setId(examMarks1.getId());
+		} else {
+			throw null;
+		}
+		examMarksRepository.save(examMarks);
 	}
 
 }
