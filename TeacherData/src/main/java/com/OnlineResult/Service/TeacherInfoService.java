@@ -34,5 +34,13 @@ public class TeacherInfoService {
 		}.getType());
 		return listTeacher;
 	}
+	
+	public TeacherModel getTeacher(String username, String password) {
+		Teacher teacher=teacherInfoRepo.findByUsernameAndPassword(username,password);
+		Gson gson = new Gson();
+		String json = gson.toJson(teacher);
+		TeacherModel teacherModel=gson.fromJson(json, TeacherModel.class);
+		return teacherModel;
+	}
 
 }

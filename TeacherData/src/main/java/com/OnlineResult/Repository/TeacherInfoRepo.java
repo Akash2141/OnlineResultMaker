@@ -10,4 +10,6 @@ import com.OnlineResult.Entity.Teacher;
 @CrossOrigin(origins = "http://localhost:4200")
 public interface TeacherInfoRepo extends CrudRepository<Teacher, Long>{
 
+	Teacher findByUsernameAndPassword(String username, String password);
+
 }
