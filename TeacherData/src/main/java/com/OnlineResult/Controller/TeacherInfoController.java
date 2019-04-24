@@ -22,10 +22,10 @@ public class TeacherInfoController {
 	@Autowired
 	TeacherInfoService teacherInfoService;
 	
-	@PostMapping("/addTeacher")
-	public void addTeacher(@RequestBody TeacherModel teacherModel)
+	@PostMapping("/addTeacher/{username}/{password}")
+	public void addTeacher(@RequestBody TeacherModel teacherModel,@PathVariable String username, @PathVariable String password)
 	{
-		teacherInfoService.addTeacher(teacherModel);
+		teacherInfoService.addTeacher(teacherModel,username,password);
 	}
 	
 	@GetMapping("/getAllTeacher")
